@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Introduction  
-
+ 
 The **TRASH** repository isn’t just a project.  
 It’s an **obsession**, a **manifesto**, a **playground of chaos** for those who dare to see the world of exploits, breaches, and digital madness in its rawest form.  
 
