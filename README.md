@@ -1,5 +1,5 @@
 # trash
-# 🗑️ TRASH  
+# Sqlister 💉 
 > *"What you throw away, we collect. What the system hides, we expose."*  
 
 <p align="center">
