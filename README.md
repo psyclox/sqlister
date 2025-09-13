@@ -83,14 +83,3 @@ This is not a clean repo. It’s not meant to be. It’s a **dumpyard of the dar
 
 ---
 
-## 🛠️ Installation  
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/trash.git
-
-# Navigate into chaos
-cd trash
-
-# Start digging
-python exploit.py
