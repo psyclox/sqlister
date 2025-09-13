@@ -29,7 +29,7 @@ We weaponize it.
 ## 🕶️ Philosophy  
 
 - **Obsession > Passion**  
-  Not just interest in cyberworld — *we live inside it*.  
+  Not just interest in cyberworld — *we live inside it*
 
 - **Exploitation > Exploration**  
   Every line of code is a key, every system is a locked door, and every locked door demands to be opened.  
